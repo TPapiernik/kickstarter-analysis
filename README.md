@@ -12,7 +12,7 @@ Overall, the Average Campaign lasts approximately one Month, with the longest ca
 
 ## Findings
 
-Among all types of campaigns in all countries, theater campaigns in general were high in number at 1,393, and fared well in terms of success at a rate of 60%. This is in contrast to Technology campaigns which only succeed approximately 35% of the time. These results can be seen in Figure 1:
+Among all types of campaigns in all countries, theater campaigns in general were high in number at 1,393, and fared well in terms of success at a rate of 60%. This is in contrast to Technology campaigns which only succeed approximately 35% of the time. These results can be seen in greater detail in Figure 1:
 
 ![Figure 1](overall_category_outcomes_small.png)
 
@@ -26,5 +26,16 @@ Turning our attention overseas, the outlook for putting on a Musical in Great Br
 
 ![Figure 3](british_musicals.png)
 
+What does seem to work in Great Britain are campaigns for Plays, as can be seen below in Figure 4:
+
+![Figure 4](british_campaigns.png)
 
 ## Recommendations
+
+In conclusion, we can provide the following recommendations to increase the liklihood of a successful campaign:
+
+1. Launch your campaign in the Month of May.
+2. Be realistic with your Goal, with a request no larger than $5,000.
+3. Cast a wide net to generate interest among potential Backers.
+4. Make sure that your pitch is polished enough and the project itself is interesting enough to attract "Big Fish" Backers who would be more willing to contribute a larger Pledge Amount.
+5. If the campaign is to be conducted in Great Britain, strongly consider a Play rather than a Musical.
