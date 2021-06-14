@@ -22,9 +22,9 @@ For theater campaigns in particular, one trend that stood out upon inspection wa
 
 If you examine the differences between Successful and Failed Theater Campaigns in the US, some other trends are revealed as well. Failed campaigns started with a Goal twice as large as Successful campaigns on average ($5,000 vs $10,000), and had Average Pledge amounts nearly Ten Times smaller ($550 vs $5,500)! There were marked differences in the Number and Type of Backers as well: Successful campaigns had more backers (Average of 60 vs 7), and a higher proportion of large average donations. In contrast, Failed campaigns ended with a smaller number of Backers and smaller average donations.
 
-Turning our attention overseas, the outlook for putting on a Musical in Great Britain is quite a bit different, and poses a greater challenge. The Average Goal for these productions during the period under study was 4,000 Pounds, but the Average Amount Pledged was not even Half this amount. This stark contrast can be seen in a side-by side comparisson in Figure 3:
+Turning our attention overseas, the outlook for putting on a Musical in Great Britain is quite a bit different, and poses a greater challenge. The Average Goal for these productions during the period under study was 4,000 Pounds, but the Average Amount Pledged was not even Half this amount. This stark contrast can be seen in a side-by side comparison in Figure 3:
 
 ![Figure 3](british_musicals.png)
 
 
-## Reccommendations
+## Recommendations
