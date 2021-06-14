@@ -12,6 +12,11 @@ All 4,114 Campaigns took place in 21 Countries, of which 3,038 (roughly 74%) wer
 
 ## Findings
 
-Among all types of campaigns in all countries, theater campaigns in general were high in number at 1,393 overall, and fared well in terms of success at a rate of 60%. This is in contrast to Technology campaigns which only succeed approximately 35% of the time. These overall results can be seen in Figure 1: ![Figure 1](overall_category_outcomes_small.png).
+Among all types of campaigns in all countries, theater campaigns in general were high in number at 1,393 overall, and fared well in terms of success at a rate of 60%. This is in contrast to Technology campaigns which only succeed approximately 35% of the time. These overall results can be seen in Figure 1:
+
+---
+
+![Figure 1](overall_category_outcomes_small.png).
+
 
 In the United States, over Half of Theater Campaigns
